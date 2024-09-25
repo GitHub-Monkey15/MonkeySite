@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AP's Website</title>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+    </style>
+</head>
+<body>
+    <h1 align = "center">Links</h1>
+    <p>akshaypalanivelu@gmail.com</p>
+</body>
+</html>
